@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/TP3.dir/src/TP3.c.o CMakeFiles/TP3.dir/src/main.c.o -o bin/TP3  -Wl,-rpath,/home/jonathanl/NF16_TP3/NF16_TP3_modified_add_lib_for_MAC_OS/lib -lm lib/libTP3_provided.so 

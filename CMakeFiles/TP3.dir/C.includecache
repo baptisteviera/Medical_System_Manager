@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jonathanl/NF16_TP3/NF16_TP3_modified_add_lib_for_MAC_OS/include/TP3.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+stdbool.h
+-
+math.h
+-
+
+/home/jonathanl/NF16_TP3/NF16_TP3_modified_add_lib_for_MAC_OS/src/TP3.c
+../include/TP3.h
+/home/jonathanl/NF16_TP3/NF16_TP3_modified_add_lib_for_MAC_OS/include/TP3.h
+
+/home/jonathanl/NF16_TP3/NF16_TP3_modified_add_lib_for_MAC_OS/src/main.c
+stdio.h
+-
+../include/TP3.h
+/home/jonathanl/NF16_TP3/NF16_TP3_modified_add_lib_for_MAC_OS/include/TP3.h
+stdlib.h
+-
+

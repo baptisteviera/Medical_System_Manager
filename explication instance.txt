@@ -1,0 +1,14 @@
+le 1er chiffre correspond au nombre de patient
+le deuxièeme chiffre correspond au nombre de soigneur
+
+le 1er chiffre de la 2eme ligne correspond à l'ID de patient
+le 2eme chiffre correspond au nombre de rendez vous
+ensuite au a le nom et prenom
+
+lignes RDV
+le 1er chiffre correspond à l' ID du soigneur
+le 2eme et 3eme correspondent RdV souhaité: [20, 50[ (intervalle de temps)
+le 3 eme numero -> temps_déplacement_depuis_rdv_précédent:0 
+le 4 champ -> desc: traitementA (description)
+
+à la fin du fichier j'ai les dernières lignes qui correspondent au nom et prénom des soigneurs

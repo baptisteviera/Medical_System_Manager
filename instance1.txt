@@ -1,0 +1,11 @@
+2 3
+1 2 PAA PBB
+1 20 50 0 traitementA
+2 70 100 20 traitementB
+2 3 PCC PDD
+1 25 60 0 traitementC
+2 80 100 20 traitementD
+3 125 145 25 traitementE
+1 SAA SBB
+2 SCC SDD
+3 SEE SFF

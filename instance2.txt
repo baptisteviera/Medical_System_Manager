@@ -1,0 +1,52 @@
+10 6
+1 4 PAA PBB 
+1 20 50 0 traitementA
+6 70 100 20 traitementB
+2 130 150 30 traitementC
+4 165 180 15 traitementD
+2 3 PCC PDD 
+4 25 60 0 traitementE
+3 80 100 20 traitementF
+2 125 145 25 traitementG
+3 2 PEE PFF
+2 40 80 0 traitementH
+6 100 110 20 traitementI
+4 5 PGG PHH 
+5 70 100 0 traitementJ
+2 110 120 10 traitementK
+6 135 160 15 traitementL
+4 175 195 15 traitementM
+1 200 220 5 traitementN
+5 1 PII PJJ
+3 100 130 0 traitementO
+6 3 PKK PLL
+3 10 20 0 traitementP
+2 35 60 15 traitementQ
+4 80 100 20 traitementR
+7 4 PMM PNN 
+2 40 60 0 traitementS
+6 80 110 20 traitementT
+4 125 150 15 traitementU
+1 160 200 10 traitementV
+8 2 POO PPP 
+2 30 60 0 traitementW
+5 100 130 40 traitementX
+9 6 PQQ PSS
+2 40 65 0 traitementY
+4 80 120 15 traitementZ
+1 130 140 10 traitementAA
+3 190 210 50 traitementAB
+6 220 240 10 traitementAC
+5 270 300 30 traitementAD
+10 5 PUU PVV
+1 10 30 0 traitementAE
+4 55 80 25 traitementAF
+3 105 130 25 traitementAG
+2 145 160 15 traitementAH
+6 180 200 20 traitementAI
+1 SAA SBB
+2 SCC SDD
+3 SEE SFF
+4 SGG SHH
+5 SII SJJ
+6 SKK SLL
